@@ -7,3 +7,9 @@ This study proposed the android-based application named ‘Thai-Licious: Thai Fo
 #### Quick links
 - [Get the APK file](https://github.com/petchuuuuuuuuuu/Thai-licious/blob/main/application/thai-licious.apk)
 - [Get the original model file](https://github.com/petchuuuuuuuuuu/Thai-licious/blob/main/model/thai-food_classification-model.hdf5)
+
+<p float="left">
+  <img src="https://github.com/petchuuuuuuuuuu/Thai-licious/blob/main/application/app-screencaps/Android-Emulator%20-1.gif" width="240" />
+  <img src="https://github.com/petchuuuuuuuuuu/Thai-licious/blob/main/application/app-screencaps/android-emulator%20-2.gif" width="240" /> 
+  <img src="https://github.com/petchuuuuuuuuuu/Thai-licious/blob/main/application/app-screencaps/Android-Emulator-3.gif" width="240" />
+</p>
